@@ -1,0 +1,16 @@
+C:\tanya\homework-methods\bin\Debug\net5.0\homework-methods.exe
+C:\tanya\homework-methods\bin\Debug\net5.0\homework-methods.deps.json
+C:\tanya\homework-methods\bin\Debug\net5.0\homework-methods.runtimeconfig.json
+C:\tanya\homework-methods\bin\Debug\net5.0\homework-methods.runtimeconfig.dev.json
+C:\tanya\homework-methods\bin\Debug\net5.0\homework-methods.dll
+C:\tanya\homework-methods\bin\Debug\net5.0\ref\homework-methods.dll
+C:\tanya\homework-methods\bin\Debug\net5.0\homework-methods.pdb
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.csproj.AssemblyReference.cache
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.AssemblyInfoInputs.cache
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.AssemblyInfo.cs
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.csproj.CoreCompileInputs.cache
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.dll
+C:\tanya\homework-methods\obj\Debug\net5.0\ref\homework-methods.dll
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.pdb
+C:\tanya\homework-methods\obj\Debug\net5.0\homework-methods.genruntimeconfig.cache

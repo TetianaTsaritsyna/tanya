@@ -1,0 +1,16 @@
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\lesson-data-types.exe
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\lesson-data-types.deps.json
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\lesson-data-types.runtimeconfig.json
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\lesson-data-types.runtimeconfig.dev.json
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\lesson-data-types.dll
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\ref\lesson-data-types.dll
+C:\tanya\lesson-data-types\lesson-data-types\bin\Debug\net5.0\lesson-data-types.pdb
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.csproj.AssemblyReference.cache
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.AssemblyInfoInputs.cache
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.AssemblyInfo.cs
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.csproj.CoreCompileInputs.cache
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.dll
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\ref\lesson-data-types.dll
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.pdb
+C:\tanya\lesson-data-types\lesson-data-types\obj\Debug\net5.0\lesson-data-types.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\tanya\homework-methods-minvalue\obj\Debug\net5.0\homework-methods-minvalue.GeneratedMSBuildEditorConfig.editorconfig
+C:\tanya\homework-methods-minvalue\obj\Debug\net5.0\homework-methods-minvalue.AssemblyInfoInputs.cache
+C:\tanya\homework-methods-minvalue\obj\Debug\net5.0\homework-methods-minvalue.AssemblyInfo.cs
+C:\tanya\homework-methods-minvalue\obj\Debug\net5.0\homework-methods-minvalue.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\tanya\Homework_loop\bin\Debug\net5.0\Homework_loop.exe
+C:\tanya\Homework_loop\bin\Debug\net5.0\Homework_loop.deps.json
+C:\tanya\Homework_loop\bin\Debug\net5.0\Homework_loop.runtimeconfig.json
+C:\tanya\Homework_loop\bin\Debug\net5.0\Homework_loop.runtimeconfig.dev.json
+C:\tanya\Homework_loop\bin\Debug\net5.0\Homework_loop.dll
+C:\tanya\Homework_loop\bin\Debug\net5.0\ref\Homework_loop.dll
+C:\tanya\Homework_loop\bin\Debug\net5.0\Homework_loop.pdb
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.csproj.AssemblyReference.cache
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.AssemblyInfoInputs.cache
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.AssemblyInfo.cs
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.csproj.CoreCompileInputs.cache
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.dll
+C:\tanya\Homework_loop\obj\Debug\net5.0\ref\Homework_loop.dll
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.pdb
+C:\tanya\Homework_loop\obj\Debug\net5.0\Homework_loop.genruntimeconfig.cache
